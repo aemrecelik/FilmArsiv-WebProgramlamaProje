@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmArsiv.API", "FilmArsiv.API\FilmArsiv.API.csproj", "{9F35A487-011E-40B9-803D-03043D12834E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F35A487-011E-40B9-803D-03043D12834E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F35A487-011E-40B9-803D-03043D12834E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F35A487-011E-40B9-803D-03043D12834E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F35A487-011E-40B9-803D-03043D12834E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {297F2D3A-A37A-48B9-890B-0E2AF9CFE7A3}
+	EndGlobalSection
+EndGlobal
